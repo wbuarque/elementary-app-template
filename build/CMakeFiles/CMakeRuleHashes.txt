@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-9a6d85861fc7eb8a44323643c9d5afa0 com.wbuarque.elementary-app_valac.stamp
-df1ade6025c971b4b1f2659890a72cce src/template.c
