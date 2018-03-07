@@ -1,0 +1,2 @@
+msgid "Label It!"
+msgstr "Texto"

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Elementary App Template
+GenericName=Elementary App
+Comment=A simple template for elementary apps
+Categories=Utility;Education;
+Exec=com.wbuarque.elementary-app
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=elementary-app

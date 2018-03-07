@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.wbuarque.elementary-app.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Elementary App Template</name>
+  <summary>A simple template for elementary apps</summary>
+  <description>
+    <p>This is only a template project for elementary apps.</p>
+  </description>
+</component>
